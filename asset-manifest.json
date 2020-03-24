@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/IvanLanceDeLeon/productivity-app/static/css/main.e7c3b91b.chunk.css",
-    "main.js": "/IvanLanceDeLeon/productivity-app/static/js/main.725afb8b.chunk.js",
-    "main.js.map": "/IvanLanceDeLeon/productivity-app/static/js/main.725afb8b.chunk.js.map",
-    "runtime-main.js": "/IvanLanceDeLeon/productivity-app/static/js/runtime-main.3be920ea.js",
-    "runtime-main.js.map": "/IvanLanceDeLeon/productivity-app/static/js/runtime-main.3be920ea.js.map",
-    "static/css/2.c51b6406.chunk.css": "/IvanLanceDeLeon/productivity-app/static/css/2.c51b6406.chunk.css",
-    "static/js/2.3821346e.chunk.js": "/IvanLanceDeLeon/productivity-app/static/js/2.3821346e.chunk.js",
-    "static/js/2.3821346e.chunk.js.map": "/IvanLanceDeLeon/productivity-app/static/js/2.3821346e.chunk.js.map",
-    "index.html": "/IvanLanceDeLeon/productivity-app/index.html",
-    "precache-manifest.8daedfd7536463e9d0e74a64111cbaad.js": "/IvanLanceDeLeon/productivity-app/precache-manifest.8daedfd7536463e9d0e74a64111cbaad.js",
-    "service-worker.js": "/IvanLanceDeLeon/productivity-app/service-worker.js",
-    "static/css/2.c51b6406.chunk.css.map": "/IvanLanceDeLeon/productivity-app/static/css/2.c51b6406.chunk.css.map",
-    "static/css/main.e7c3b91b.chunk.css.map": "/IvanLanceDeLeon/productivity-app/static/css/main.e7c3b91b.chunk.css.map",
-    "static/js/2.3821346e.chunk.js.LICENSE.txt": "/IvanLanceDeLeon/productivity-app/static/js/2.3821346e.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/IvanLanceDeLeon/productivity-app/static/media/bg3.466b3b8e.png",
-    "static/media/fanfare.mp3": "/IvanLanceDeLeon/productivity-app/static/media/fanfare.ecec05ce.mp3"
+    "main.css": "/productivity-app/static/css/main.e484c040.chunk.css",
+    "main.js": "/productivity-app/static/js/main.23c75159.chunk.js",
+    "main.js.map": "/productivity-app/static/js/main.23c75159.chunk.js.map",
+    "runtime-main.js": "/productivity-app/static/js/runtime-main.54015c66.js",
+    "runtime-main.js.map": "/productivity-app/static/js/runtime-main.54015c66.js.map",
+    "static/css/2.c51b6406.chunk.css": "/productivity-app/static/css/2.c51b6406.chunk.css",
+    "static/js/2.3821346e.chunk.js": "/productivity-app/static/js/2.3821346e.chunk.js",
+    "static/js/2.3821346e.chunk.js.map": "/productivity-app/static/js/2.3821346e.chunk.js.map",
+    "index.html": "/productivity-app/index.html",
+    "precache-manifest.92da17d8b7a23f8fcd63a0b526e33bd5.js": "/productivity-app/precache-manifest.92da17d8b7a23f8fcd63a0b526e33bd5.js",
+    "service-worker.js": "/productivity-app/service-worker.js",
+    "static/css/2.c51b6406.chunk.css.map": "/productivity-app/static/css/2.c51b6406.chunk.css.map",
+    "static/css/main.e484c040.chunk.css.map": "/productivity-app/static/css/main.e484c040.chunk.css.map",
+    "static/js/2.3821346e.chunk.js.LICENSE.txt": "/productivity-app/static/js/2.3821346e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/productivity-app/static/media/bg3.466b3b8e.png",
+    "static/media/fanfare.mp3": "/productivity-app/static/media/fanfare.ecec05ce.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.3be920ea.js",
+    "static/js/runtime-main.54015c66.js",
     "static/css/2.c51b6406.chunk.css",
     "static/js/2.3821346e.chunk.js",
-    "static/css/main.e7c3b91b.chunk.css",
-    "static/js/main.725afb8b.chunk.js"
+    "static/css/main.e484c040.chunk.css",
+    "static/js/main.23c75159.chunk.js"
   ]
 }
